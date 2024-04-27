@@ -28,3 +28,12 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.imageOnlyAuthorCol_uiac [class^=image], .sectionAlt_XiGz, .toggleButton_WvRg {
+  background-color: var(--ifm-color-emphasis-100);
+}
+
+.tweetsSection_Fqsy>.col>* {
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
